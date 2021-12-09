@@ -1,0 +1,19 @@
+.navContainer{
+    max-width: 100%;
+ 
+    justify-content: space-between;
+    display: flex;
+    border-bottom: inset;
+}
+.logoimg{
+    width: 200px;
+}
+.icons{
+    padding-top: 14px;
+   
+}
+.icons i{
+    font-size: 22px;
+    margin: 10px;
+  
+}

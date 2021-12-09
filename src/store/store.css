@@ -1,0 +1,44 @@
+.store {
+  width: 100%;
+  display: flex;
+}
+.side-menu {
+  border-right-style: inset;
+  display: grid;
+}
+.side-menu i {
+  font-size: 44px;
+  margin: 25px;
+}
+.row {
+  width: 100%;
+  display: flex;
+}
+.row input {
+  height: 35px;
+  width: 228px;
+}
+.row Button {
+  height: 35px;
+  width: 110;
+}
+.table {
+  margin-top: 50px;
+
+  margin-left: 60px;
+  border-collapse: collapse;
+  max-width: 100%;
+}
+
+table,
+td,
+th {
+  border: 1px solid #ddd;
+
+  text-align: left;
+}
+
+th,
+td {
+  padding: 15px;
+}
